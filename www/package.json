@@ -1,11 +1,19 @@
 {
-  "name": "www",
+  "name": "front-med",
   "version": "0.0.1",
-  "description": "Net opisaniya",
+  "description": "no description",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "Konstantin Emelyanov",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kekanol/FrontMed.git"
+  },
+  "author": "Emelyanov Konstantin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kekanol/FrontMed/issues"
+  },
+  "homepage": "https://github.com/kekanol/FrontMed#readme"
 }
